@@ -1,0 +1,77 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.wrapper{
+   margin-top: 30px;
+   border: 2px solid black;
+   border-radius: 20px;
+   margin-left: 1%;
+   margin-right: 1%;
+}
+.navstyling{
+    background-color:#ffe4c4;
+    min-height: 70px;
+    
+    
+     border-radius:10px ;
+     margin-left: 5%;
+     margin-right: 5%;
+}
+.homestyle{
+    
+
+margin-top: 30px;
+border-radius: 25px;
+min-height: 280px;
+margin-left: 5%;
+margin-right: 5%;
+
+}
+.btn-btn1{
+    border-radius: 10px;
+    padding: 5px 6px;
+    background-color: rgb(0, 255, 149);
+}
+
+
+.btn-btn{
+    text-align: center;
+    border-radius: 10px;
+    padding: 5px 5px;
+    background-color:rgb(0, 255, 149);
+}
+.projectstyling{
+    margin-left: 1%;
+    margin-right: 1%;
+    border:2px solid red;
+}
+.footerstyling
+{
+  width: 100%;
+  min-height: 90px;
+  background-color:plum;
+  border-radius: 20px;
+}
+.footerstyling > h1{
+    color: white;
+    text-align: center;
+}
+.socialmedia >a {
+    color:white;
+   margin-left: 20px;
+
+
+}
+button{
+    margin-left: 50px;
+    padding: 10px;
+    background-color: antiquewhite;
+    border: 2px solid black;
+}
+.skillstyling{
+    margin-left: 10%;
+margin-right: 10%;
+border: 2px solid purple;
+}
